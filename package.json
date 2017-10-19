@@ -1,0 +1,25 @@
+{
+  "name": "eventslib",
+  "version": "1.0.0",
+  "description": "Events library classes",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornorm/eventslib.git"
+  },
+  "keywords": [
+    "Event"
+  ],
+  "author": "Aime Biendo <abiendo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornorm/eventslib/issues"
+  },
+  "homepage": "https://github.com/ornorm/eventslib#readme"
+}
